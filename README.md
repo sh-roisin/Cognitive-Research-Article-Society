@@ -1,5 +1,5 @@
 ## Overview
-#### Cognitive Research Article Society (CRAS) is an academic society at The University of Sussex🧠⚙️ 
+#### Cognitive Research Article Society (CRAS) is an academic society at The University of Sussex🧠⚡️⚙️ 
 This repository provides details from each meet, including:
 
  - The academic paper;
