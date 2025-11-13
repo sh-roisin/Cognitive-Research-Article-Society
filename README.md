@@ -10,8 +10,8 @@ This repository stores the society's resources, including:
 For more details or to get involved, contact Róisín (rs843@sussex.ac.uk).
 
 ## CRAS Agenda📝
-#### Our aim is increase engagement in cognitive science: This is a collaborative learning environment designed to help you feel comfortable to go outside your comfort zone and gain confidence in engaging in academic discussions.
-So please note, there are no prerequisites for this society: this is a society for anyone who is interested in cognitive science. Please do not feel that you have to already have a specific level of knowledge or skills to join. This society is fun specifically because it attracts people with naturally different knowledge and ideas, sparking interesting conversations! After-all, we need discrepancies in understanding for teaching and learning.
+#### Our aim is increase engagement in cognitive science. This is a collaborative learning environment designed to help you gain confidence in engaging in academic discussions.
+So please note, this is a society for anyone who is interested in cognitive science. This society is fun specifically because it attracts people with naturally different knowledge and ideas, sparking interesting conversations! After-all, we need discrepancies in understanding for teaching and learning.
 <br>
 <br>
 
