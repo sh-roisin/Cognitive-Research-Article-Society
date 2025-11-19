@@ -144,9 +144,9 @@ All members are welcome to present a paper! We will rotate this role each meet o
 
 -  **Responsibilities of presenter:**
 
-- Within a week of the previous meet, provide the next paper alongside some planned questions. This will be shared on the discord channel. Each member is then free to contribute to the planned questions.
+	- Within a week of the previous meet, provide the next paper alongside some planned questions. This will be shared on the discord channel. Each member is then free to contribute to the planned questions.
 
-- At the meet, provide an initial synopsis of the paper and explain the rationale behind your selection.
+	- At the meet, provide an initial synopsis of the paper and explain the rationale behind your selection.
 
   
 
@@ -158,7 +158,7 @@ All members are welcome to present a paper! We will rotate this role each meet o
 
 * Please note, questions should account for roughly 45 minutes of discussion, and leave time for the two questions we ask at the end of each meet:
 	1. How does this paper link to the paper we previously discussed?
-	2. Feedback: Why did you like/dislike this paper? How did you find this meet? Is there anything you'd change, or like to see more of in the next time?
+	2. Feedback: Why did you like/dislike this paper? How did you find this meet? Is there anything you'd change, or like to see more of next time?
 
 
 For inspiration...
@@ -194,3 +194,21 @@ For inspiration...
 
 *  **Reality Bending Lab** is a neuropsychological lab in the department of Psychology that investigates reality and its distortions. You can find out more about their research led by Dominique Makowski, and read their blog pages on their webiste.
 	* https://realitybending.github.io/
+
+  
+
+  
+
+  
+
+*  **Sussex Neuroscience** runs a seminar series that invites external speakers to talk about a wide range of topics, including cellular, molecular, systems, cognitive and clinical neuroscience. You can read more about their seminar programme on their page within the university website.
+	* https://www.sussex.ac.uk/research/centres/sussex-neuroscience/seminarsandactivities
+
+
+
+
+
+
+
+*  **Cognitive, Neuroscience and Imaging Seminars** are linked to the Sussex Neuroscience Seminars but operate as their own series, focusing on research developments in cognitive neuroscience. They usually run weekly and cover a wide range of research happening at the university. To be added to the mailing list, you can email Chris Bird using the address below.
+	* Chris.Bird@sussex.ac.uk
