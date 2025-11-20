@@ -13,6 +13,7 @@ This repository stores the society's resources, including:
 
 For more details or to get involved, contact Róisín (rs843@sussex.ac.uk).
 
+<br>
 
 ## CRAS Agenda📝
 
@@ -22,7 +23,6 @@ For more details or to get involved, contact Róisín (rs843@sussex.ac.uk).
 So please note, this is a society for anyone who is interested in cognitive science. We encourage a diverse range of knowledge and ideas as these spark interesting conversations. After-all, we need discrepancies in understanding for teaching and learning!
 
 
-<br>
 
  
 
