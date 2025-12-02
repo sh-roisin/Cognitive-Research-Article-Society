@@ -122,3 +122,7 @@ For inspiration...
 *  **Cognitive, Neuroscience and Imaging (CNI) Seminars** are linked to the Sussex Neuroscience Seminars but operate as their own series, focusing on research developments in cognitive neuroscience. They usually run weekly and cover a wide range of research happening at the university. To be added to the mailing list, you can email Chris Bird using the address below.
 	
 	* Chris.Bird@sussex.ac.uk
+
+
+* **Psychology Colloquiums** are held every Thursday lunchtime. Speakers from other universities and our own department of Psychology share their pioneering work. To be added to the mailing list, you can email Reny Baykova using the address below.
+	* R.Baykova@sussex.ac.uk
