@@ -101,9 +101,10 @@ For inspiration...
 ---
 
 ### Further resources for cognitive science at the University of Sussex:
+If you're part of the University of Sussex and would like to be added to the mailing list for any of these academic groups, contact contact Róisín (rs843@sussex.ac.uk). 
 
 
--  **Centre for Cognitive Science (COGS)** is a pioneering cognitive research center at our university. They host regular academic seminars, which are great for gaining insight into this academic environment. Anyone is welcome to go. To be added to the mailing list, you can email Simon Bowes using the address below.
+-  **Centre for Cognitive Science (COGS)** is a pioneering cognitive research center at our university. They host regular academic seminars, which are great for gaining insight into this academic environment. Anyone is welcome to go. For inquiries, you can email Simon Bowes using the address below. 
 
 	- S.C.Bowes@sussex.ac.uk
 	- [https://www-sussex-ac-uk.sussex.idm.oclc.org/cogs/index](https://www-sussex-ac-uk.sussex.idm.oclc.org/cogs/index)
@@ -116,13 +117,17 @@ For inspiration...
 *  **Sussex Neuroscience** runs a seminar series that invites external speakers to talk about a wide range of topics, including cellular, molecular, systems, cognitive and clinical neuroscience. You can read more about their seminar programme on their page within the university website.
 	
 	* https://www.sussex.ac.uk/research/centres/sussex-neuroscience/seminarsandactivities
+	* Watch their videos and listen to their Braincast podcast series [here](https://www.youtube.com/@sussexneuroscience4904)
 
   
 
-*  **Cognitive, Neuroscience and Imaging (CNI) Seminars** are linked to the Sussex Neuroscience Seminars but operate as their own series, focusing on research developments in cognitive neuroscience. They usually run weekly and cover a wide range of research happening at the university. To be added to the mailing list, you can email Chris Bird using the address below.
+*  **Cognitive, Neuroscience and Imaging (CNI) Seminars** are linked to the Sussex Neuroscience Seminars but operate as their own series, focusing on research developments in cognitive neuroscience. They usually run weekly and cover a wide range of research happening at the university. For inquiries, you can email Chris Bird using the address below.
 	
 	* Chris.Bird@sussex.ac.uk
 
 
-* **Psychology Colloquiums** are held every Thursday lunchtime. Speakers from other universities and our own department of Psychology share their pioneering work. To be added to the mailing list, you can email Reny Baykova using the address below.
+* **Psychology Colloquiums** are held every Thursday lunchtime. Speakers from other universities and our own department of Psychology share their pioneering work. For inquiries, you can email Reny Baykova using the address below.
 	* R.Baykova@sussex.ac.uk
+
+* **Sussex AI** Is a multidisciplinary center of excellence that investigates a range of AI-related topics from a quintessentially Sussex angle, reflecting the mass of technical and domain knowledge we hold. They host fascinating seminars on work being done that at the frontier of AI research. 
+	* https://www-sussex-ac-uk.sussex.idm.oclc.org/research/centres/ai-research-group/ 
