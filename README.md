@@ -12,11 +12,14 @@ This repository stores the society's resources, including:
 
 Read on for an overview of the society.
 
-For more details or to get involved, contact Róisín ([rs843\@sussex.ac.uk](mailto:rs843@sussex.ac.uk){.email}).
+For more details or to get involved, contact Róisín ([rs843\@sussex.ac.uk](mailto:rs843@sussex.ac.uk)).
 
 <br>
 
-![Our amazing logo was made by April, an artist and psychology student from our society!](Media/Logo.png)
+<figure>
+  <img src="Media/Logo.png" alt="Our amazing logo">
+  <figcaption><em>Our amazing logo was made by April, an artist and psychology student from our society!</em></figcaption>
+</figure>
 
 ## CRAS Agenda📝
 
