@@ -21,7 +21,7 @@ For more details or to get involved, contact Róisín ([rs843\@sussex.ac.uk](mai
   <figcaption><em>Our amazing logo was made by April, an artist and psychology student from our society!</em></figcaption>
 </figure>
 
-## CRAS Agenda📝
+## Our Agenda📝
 
 #### Our aim is to increase engagement in cognitive science. This is a collaborative learning environment designed to help you gain confidence when engaging in academic discussions.
 
@@ -47,7 +47,7 @@ So please note, this is a society for anyone who is interested in cognitive scie
 
 ------------------------------------------------------------------------
 
-### Presenter Guidance {#presenter-guidance}
+### Presenter Guidance
 
 All members are welcome to present a paper! We will rotate this role each meet on a volunteer basis.
 
