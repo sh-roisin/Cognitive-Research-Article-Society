@@ -16,7 +16,7 @@ For more details or to get involved, contact Róisín ([rs843\@sussex.ac.uk](mai
 
 <br>
 
-![Our amazing logo was made by April, an artist and psychology student from our society!](https://github.com/RoisinSharma/Cognitive-Research-Article-Society/Media/Logo.png)
+![Our amazing logo was made by April, an artist and psychology student from our society!](Media/Logo.png)
 
 ## CRAS Agenda📝
 
